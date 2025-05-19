@@ -3,23 +3,23 @@
 # <div align="center">👋 Hello World! I'm Tushar Sukhwal</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Web+Developer;Media+Computer+Science+Student;Building+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Web+Developer;Computer+Engineering+Student;Building+Scalable+Systems" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="https://www.Tushar-Sukhwal.de"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/tushar-sukhwal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.youtube.com/@tobitacklestech"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://tusharsukhwal.com"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/tushar-sukhwal-57463a251/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/Tushars_071"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </div>
 
 ## 📌 About Me
 
 - 🚀 Web Developer with professional experience since 2022
-- 🎓 Studying Media Computer Science at Berliner Hochschule für Technik
-- 🛜 Currently building my personal website at [Tushar-Sukhwal.de](https://www.Tushar-Sukhwal.de)
-- 🎬 Creator of the YouTube channel [Tobi Tackles Tech](https://www.youtube.com/@tobitacklestech)
-- 🌏 Based in Berlin, originally from India
+- 🎓 Studying Computer and Communication Engineering at The LNM Institute of Information Technology
 - 💡 Passionate about creating clean, user-friendly interfaces and robust back-end systems
+- 🔧 Focus on Scalable Systems and high-performance applications
+- 🌐 Check out my personal website [tusharsukhwal.com](https://tusharsukhwal.com)
+- 🇮🇳 Proud to be from India
 
 ## 🔥 My GitHub Stats
 
@@ -92,6 +92,12 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Tushar-Sukhwal&style=flat-square&color=blue" alt="Profile Views" />
+</div>
+
+<div align="center">
+  
+  ### "Crafting scalable solutions, one line of code at a time."
+  
 </div>
 
 <!-- 
