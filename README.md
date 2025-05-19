@@ -1,86 +1,14 @@
-# Hi there 👋, I'm Tushar Sukhwal
+<!-- <img src="banner_github.png" alt="GitHub Banner" width="100%" /> -->
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue" alt="Full Stack Developer"/>
-  <img src="https://img.shields.io/badge/MERN-Stack-green" alt="MERN Stack"/>
-  <img src="https://img.shields.io/badge/Competitive-Programmer-orange" alt="Competitive Programmer"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-red" alt="Open Source Enthusiast"/>
-</div>
+# Hello World!, I'm Tushar Sukhwal, an Indian Web Developer 👋🏼:
+🛜 currently working on my own [webpage](https://www.Tushar-Sukhwal.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
 
-## 👨‍💻 About Me
 
-I'm a passionate Full Stack Developer with expertise in the MERN stack. Currently, I'm actively seeking opportunities to work with organizations where I can contribute my skills and grow professionally.
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-- 🏆 ICPC Regionalist'24 with AIR 50
-- 💻 Expert @Codeforces (max 1657)
-- 🔰 Guardian @LeetCode (max 2169)
-- 🌱 Currently working on plagiarism detection in programming contests
-- 👯 Looking to collaborate on open-source projects
-
-## 🛠️ Tech Stack
-
-<table>
-  <tr>
-    <td valign="top">
-      <h3>Frontend</h3>
-      <ul>
-        <li>React.js</li>
-        <li>JavaScript/TypeScript</li>
-        <li>HTML/CSS</li>
-        <li>Redux</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <h3>Backend</h3>
-      <ul>
-        <li>Node.js</li>
-        <li>Express.js</li>
-        <li>MongoDB</li>
-        <li>RESTful APIs</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <h3>Tools & Others</h3>
-      <ul>
-        <li>Git & GitHub</li>
-        <li>VS Code</li>
-        <li>Docker</li>
-        <li>CI/CD</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-## 🏅 Competitive Programming Achievements
-
-- 🥇 ICPC Regionalist 2024 (All India Rank 50)
-- 🏅 Expert Rating on Codeforces (max: 1657)
-- 🏆 Guardian Rating on LeetCode (max: 2169)
-- 👨‍💻 Active problem solver on competitive programming platforms
-
-## 📊 GitHub Metrics
-
-![Metrics](https://github.com/Tushar-Sukhwal/Tushar-Sukhwal/blob/main/github-metrics.svg)
-
-## 📈 My Language Stats
-![Language Stats](https://github.com/Tushar-Sukhwal/Tushar-Sukhwal/blob/main/metrics-languages.svg)
-
-## ⏱️ Coding Habits
-![Coding Habits](https://github.com/Tushar-Sukhwal/Tushar-Sukhwal/blob/main/metrics-habits.svg)
-
-## 🔗 Let's Connect
-
-<div align="center">
-  <a href="https://in.linkedin.com/in/tushar-sukhwal-57463a251">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Tushar-Sukhwal">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://codeforces.com/profile/tushar_sukhwal">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-  <a href="https://leetcode.com/tushar_sukhwal/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tushar-Sukhwal/Tushar-Sukhwal/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tushar-Sukhwal/Tushar-Sukhwal/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Tushar-Sukhwal/Tushar-Sukhwal/output/github-snake.svg" />
+</picture>
