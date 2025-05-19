@@ -80,11 +80,11 @@
 
 ## 🐍 Contribution Graph
 
-<div align="center">
-  <a href="https://github.com/Tushar-Sukhwal">
-    <img src="https://github.com/Tushar-Sukhwal/Tushar-Sukhwal/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  </a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tushar-Sukhwal/Tushar-Sukhwal/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tushar-Sukhwal/Tushar-Sukhwal/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Tushar-Sukhwal/Tushar-Sukhwal/output/github-snake.svg" />
+</picture>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Tushar-Sukhwal&style=flat-square&color=blue" alt="Profile Views" />
