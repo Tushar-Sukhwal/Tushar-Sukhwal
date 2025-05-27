@@ -14,7 +14,7 @@
 
 ## 📌 About Me
 
-- 🚀 Web Developer with professional experience since 2022
+- 🚀 Web Developer since 2022
 - 🎓 Studying Computer and Communication Engineering at The LNM Institute of Information Technology
 - 💡 Passionate about creating clean, user-friendly interfaces and robust back-end systems
 - 🔧 Focus on Scalable Systems and high-performance applications
