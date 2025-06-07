@@ -20,6 +20,7 @@
 - 🔧 Focus on Scalable Systems and high-performance applications
 - 🌐 Check out my personal website [tusharsukhwal.com](https://tusharsukhwal.com)
 - 🇮🇳 Proud to be from India
+- 📝 Read my Notes [notes.tusharsukhwal.com](https://notes.tusharsukhwal.com)
 
 ## 🔥 My GitHub Stats
 
